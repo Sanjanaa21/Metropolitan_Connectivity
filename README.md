@@ -113,12 +113,5 @@ This system simulates how metropolitan cities are connected via transportation n
 
 ---
 
-## 📁 File Structure
 
-```plaintext
-.
-├── main.c / mainss.c          # Core logic implementation
-├── mainss.h                   # Header file with structures and declarations
-├── city.txt / route.txt       # City/route data (optional)
-├── README.md                  # Project description
 
